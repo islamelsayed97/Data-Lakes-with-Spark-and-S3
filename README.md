@@ -2,8 +2,9 @@
  <h1 align="center">Data Lake with AWS S3</h1>
 </p>
 
-
-![database](./images/spark_S3.png)
+<div align="center" >
+ <img src="./images/spark_S3.png" />
+</div>
 
 ## About The Project
 
